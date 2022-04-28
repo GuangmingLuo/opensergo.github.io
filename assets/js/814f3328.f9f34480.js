@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopensergo_github_io=self.webpackChunkopensergo_github_io||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"OpenSergo \u6b63\u5f0f\u5f00\u6e90","permalink":"/blog/opensergo-is-open-source"}]}')}}]);
