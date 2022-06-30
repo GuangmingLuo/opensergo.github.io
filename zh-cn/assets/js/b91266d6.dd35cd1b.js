@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopensergo_github_io=self.webpackChunkopensergo_github_io||[]).push([[882],{4143:function(e){e.exports=JSON.parse('{"permalink":"/zh-cn/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
